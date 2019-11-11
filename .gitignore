@@ -10,3 +10,4 @@ make_file/calculater/out/calculator
 make_file/calculater/src/obj/calculator.o
 make_file/calculater/src/obj/main.o
 datastructures/DAY5/Stack
+datastructures/DAY5/queue
