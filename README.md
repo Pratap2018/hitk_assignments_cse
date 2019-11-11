@@ -1,5 +1,5 @@
 # hitk_assignments_cse
-# # please do not contribute to this repo
+## please do not contribute to this repo
 
 - [x] Day 1
 - [ ] Day 2
