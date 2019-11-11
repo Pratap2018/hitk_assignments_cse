@@ -5,4 +5,4 @@
 - [ ] Day 2
 - [x] Day 3
 - [ ] Day 4
-- [x] Day 5
+- [x] Day 5 (gcc (input_file) -o (output_file) -lm )
