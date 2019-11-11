@@ -205,6 +205,7 @@ void delete_from_any_pos(int pos){
                 curr=temp->next;
                 temp=curr->next;
                 prev->next=temp;
+                free(curr);
                 printf("\nData deleted ");       
             }                 
         
