@@ -40,6 +40,6 @@ scanf("%d",&sv);
 	}
 
 	traverse(graph,n,sv,visited);
-    printf("\n");
+    printf("\n ");
 
 }
