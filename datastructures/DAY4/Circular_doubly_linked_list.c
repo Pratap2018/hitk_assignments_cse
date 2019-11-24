@@ -128,8 +128,9 @@ void insert_at_any_pos(int pos){
 
 }
 void reverse(){
-    return;
+
 }
+
 void delete_at_any_pos(int pos){
 if (head==NULL){
         printf("\nDeletion is not possible \n");
