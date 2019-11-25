@@ -61,9 +61,9 @@ int main()
         printf("\nMultiplication is not possible ");
         exit(0);
     }
-    //printf("Enter the elements of the first matrix :");    
+    printf("Enter the elements of the first matrix :");    
     matrixOne=input_mat(matrixOne,m,n);
-    //printf("Enter the elements of second matrix :");
+    printf("Enter the elements of second matrix :");
     matrixTwo=input_mat(matrixTwo,p,q);
     printf("\nDisplaying the 1st matrix ");
     display(matrixOne,m,n);

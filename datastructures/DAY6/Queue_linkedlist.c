@@ -42,14 +42,6 @@ int main()
             break;
         }
     }
-    
-
-   /* insert(1);
-    insert(2);
-    insert(3);
-    insert(4);
-    delete();
-    display();*/
     return 0;
 }
 
